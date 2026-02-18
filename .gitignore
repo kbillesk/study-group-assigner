@@ -24,6 +24,10 @@ build/
 # Excel lock files
 .~lock.*
 
+# Spreadsheets and CSV
+*.xlsx
+*.csv
+
 # Local / generated (optional: uncomment if you don't want to track these)
 # *.xlsx
 # class_optimisation_results.txt
