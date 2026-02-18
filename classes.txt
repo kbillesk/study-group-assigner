@@ -1,0 +1,4 @@
+EGON, 2MU, Dansk
+EGON, 3NA, Dansk
+RIX, 2MU, Biologi
+ASTE, 2MU, Samfundsfag

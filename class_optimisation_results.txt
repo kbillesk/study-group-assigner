@@ -1,0 +1,288 @@
+Solution found (Status: FEASIBLE)
+
+=== Class_A ===
+Name       | Sex   | Origin     | Subject    | Language          
+----------------------------------------------------------------------
+22         | M     | Øse Efterskole (567300) | Mediefag C | Fransk begynder A 
+33         | F     |            | Billedkunst C | Fransk begynder A 
+36         | F     | Scienceefterskolen Nordborg Slot (523300) | Billedkunst C | Fransk begynder A 
+41         | M     | Vrigsted Efterskole (619308) | Mediefag C | Fransk begynder A 
+44         | F     | Skolerne i Oure - Sport & Performance (435301) | Mediefag C | Fransk begynder A 
+47         | M     | Kirkebakkeskolen (631006) | Mediefag C | Fransk begynder A 
+52         | F     | Faaborgegnens Efterskole (431304) | Billedkunst C | Fransk begynder A 
+67         | F     | Fjordvang Efterskole (667300) | Billedkunst C | Fransk begynder A 
+83         | F     | Hellebjerg Idrætsefterskole (619300) | Billedkunst C | Tysk fortsætter B 
+114        | M     | Vejlefjordskolen (grundskole) (613009) | Mediefag C | Fransk begynder A 
+136        | M     | NOVAskolen (631011) | Mediefag C | Fransk begynder A 
+170        | F     | Kirkebakkeskolen (631006) | Billedkunst C | Tysk fortsætter B 
+177        | M     | Hellebjerg Idrætsefterskole (619300) | Mediefag C | Tysk fortsætter B 
+178        | F     | Agerskov Ungdomsskole (525300) | Billedkunst C | Fransk begynder A 
+191        | F     | Elbæk Efterskole (609300) | Mediefag C | Tysk fortsætter B 
+193        | F     | Hældagerskolen (631017) | Billedkunst C | Tysk fortsætter B 
+198        | F     | Agerskov Ungdomsskole (525300) | Mediefag C | Tysk fortsætter B 
+204        | F     |            | Mediefag C | Tysk fortsætter B 
+208        | F     | Ågård Efterskole (605302) | Billedkunst C | Tysk fortsætter B 
+212        | F     | Kirstine Seligmanns Skole (631018) | Billedkunst C | Tysk fortsætter B 
+214        | F     | Løsning Skole (613005) | Billedkunst C | Tysk fortsætter B 
+217        | F     | Vardeegnens Gymnasieforberedende Efterskole (573300) | Billedkunst C | Tysk fortsætter B 
+219        | F     | Lyngs Idrætsefterskole (675301) | Billedkunst C | Tysk fortsætter B 
+222        | M     | Stjernevejskolen (613012) | Mediefag C | Tysk fortsætter B 
+231        | M     | Lukas-Skolen (631029) | Mediefag C | Tysk fortsætter B 
+237        | F     | Kirstine Seligmanns Skole (631018) | Billedkunst C | Tysk fortsætter B 
+Total: 26 students
+
+=== Class_B ===
+Name       | Sex   | Origin     | Subject    | Language          
+----------------------------------------------------------------------
+35         | M     | Lystruphave Efterskole (749300) | Billedkunst C | Tysk fortsætter B 
+49         | F     | Ågård Efterskole (605302) | Billedkunst C | Tysk fortsætter B 
+73         | F     | Bramming Gymnastik- og Idrætsefterskole (557300) | Billedkunst C | Tysk fortsætter B 
+96         | M     | Kirstine Seligmanns Skole (631018) | Billedkunst C | Tysk fortsætter B 
+99         | F     | Bjerre Gymnastik- og Idrætsefterskole Akademiet (619301) | Billedkunst C | Tysk fortsætter B 
+109        | F     | Kirstine Seligmanns Skole (631018) | Billedkunst C | Tysk fortsætter B 
+113        | F     | Skibelund Gymnastik- og Idrætsefterskole (575300) | Billedkunst C | Tysk fortsætter B 
+115        | F     | Vejle Idrætshøjskole & Vejle Idrætsefterskole (efterskoledelen) (630300) | Billedkunst C | Tysk fortsætter B 
+125        | F     | Ågård Efterskole (605302) | Billedkunst C | Tysk fortsætter B 
+133        | F     | Kirstine Seligmanns Skole (631018) | Billedkunst C | Tysk fortsætter B 
+144        | F     | Elbæk Efterskole (609300) | Billedkunst C | Tysk fortsætter B 
+145        | F     | Bramming Gymnastik- og Idrætsefterskole (557300) | Billedkunst C | Tysk fortsætter B 
+147        | F     | Hældagerskolen (631017) | Billedkunst C | Tysk fortsætter B 
+149        | F     | Koldingegnens Idrætsefterskole (621304) | Billedkunst C | Tysk fortsætter B 
+150        | F     | Hjemly Fri- og Idrætsefterskole (473300) | Billedkunst C | Tysk fortsætter B 
+153        | F     | Design- & Idrætsefterskolen Skamling (509300) | Billedkunst C | Tysk fortsætter B 
+155        | F     | Vandel Efterskole (605301) | Billedkunst C | Tysk fortsætter B 
+161        | F     | Kirstine Seligmanns Skole (631018) | Billedkunst C | Tysk fortsætter B 
+165        | F     | Balle Friskole, Balle Musik- & Idrætsefterskole (605300) | Billedkunst C | Tysk fortsætter B 
+166        | F     | Elbæk Efterskole (609300) | Billedkunst C | Tysk fortsætter B 
+167        | F     | Flemming Efterskole (627300) | Billedkunst C | Tysk fortsætter B 
+168        | F     |            | Billedkunst C | Tysk fortsætter B 
+172        | F     | Petersmindeskolen (631012) | Billedkunst C | Tysk fortsætter B 
+173        | F     | Kirstine Seligmanns Skole (631018) | Billedkunst C | Tysk fortsætter B 
+188        | F     | Søndermarksskolen (631014) | Billedkunst C | Tysk fortsætter B 
+223        | M     | Brøruphus Efterskole (745300) | Billedkunst C | Tysk fortsætter B 
+232        | F     | Bredballe Privatskole (280537) | Billedkunst C | Tysk fortsætter B 
+Total: 27 students
+
+=== Class_C ===
+Name       | Sex   | Origin     | Subject    | Language          
+----------------------------------------------------------------------
+10         | F     | Hedensted Skole (613002) | Billedkunst C | Spansk begynder A 
+11         | F     | Kirstine Seligmanns Skole (631018) | Billedkunst C | Spansk begynder A 
+17         | F     | Risskov Efterskole (280307) | Billedkunst C | Spansk begynder A 
+26         | F     | Silkeborg Efterskole (280308) | Billedkunst C | Spansk begynder A 
+50         | F     | Kirstine Seligmanns Skole (631018) | Billedkunst C | Spansk begynder A 
+64         | F     | Skolen i Midten (766001) | Billedkunst C | Spansk begynder A 
+71         | F     | Hedensted Skole (613002) | Billedkunst C | Spansk begynder A 
+76         | M     | Adventure Efterskolen Sønderjylland Skelde (507301) | Billedkunst C | Spansk begynder A 
+80         | F     | Bredballe Privatskole (280537) | Billedkunst C | Spansk begynder A 
+93         | F     | Bredballe Privatskole (280537) | Billedkunst C | Spansk begynder A 
+101        | F     |            | Dramatik C | Spansk begynder A 
+102        | F     | Mølholm Skole (631009) | Billedkunst C | Spansk begynder A 
+110        | F     | Ryslinge Høj- og Efterskole (efterskoledelen) (430300) | Billedkunst C | Spansk begynder A 
+121        | M     | Fælleshåbsskolen (280333) | Billedkunst C | Spansk begynder A 
+122        | M     | Midtjysk Efterskole (625300) | Billedkunst C | Spansk begynder A 
+151        | F     | Vejlefjordskolen (grundskole) (613009) | Billedkunst C | Spansk begynder A 
+164        | F     | Vejle Idrætshøjskole & Vejle Idrætsefterskole (efterskoledelen) (630300) | Billedkunst C | Spansk begynder A 
+181        | F     |            | Billedkunst C | Spansk begynder A 
+183        | F     | Broby Fri- og Efterskole (efterskole) (425300) | Billedkunst C | Spansk begynder A 
+195        | F     | Bjerre Gymnastik- og Idrætsefterskole Akademiet (619301) | Billedkunst C | Spansk begynder A 
+196        | F     | Hammerum Fri- og Efterskole (efterskolen) (657300) | Billedkunst C | Spansk begynder A 
+203        | F     | Hældagerskolen (631017) | Billedkunst C | Spansk begynder A 
+207        | F     | Skolen i Midten (766001) | Billedkunst C | Spansk begynder A 
+226        | F     | Skolerne i Oure - Sport & Performance (435301) | Billedkunst C | Spansk begynder A 
+227        | F     | Bjerre Gymnastik- og Idrætsefterskole Akademiet (619301) | Billedkunst C | Spansk begynder A 
+233        | F     | NOVAskolen (631011) | Billedkunst C | Spansk begynder A 
+Total: 26 students
+
+=== Class_D ===
+Name       | Sex   | Origin     | Subject    | Language          
+----------------------------------------------------------------------
+6          | F     | Englystskolen (603005) | Billedkunst C | Tysk fortsætter B 
+66         | F     | Glamsdalens Idrætsefterskole (433303) | Billedkunst C | Tysk fortsætter B 
+70         | F     | Kirstine Seligmanns Skole (631018) | Billedkunst C | Tysk fortsætter B 
+78         | F     | Hældagerskolen (631017) | Billedkunst C | Tysk fortsætter B 
+82         | M     | Vesterlund Efterskole (611300) | Mediefag C | Tysk fortsætter B 
+84         | F     | Glamsdalens Idrætsefterskole (433303) | Mediefag C | Tysk fortsætter B 
+85         | F     | Bjerre Gymnastik- og Idrætsefterskole Akademiet (619301) | Billedkunst C | Tysk fortsætter B 
+87         | F     | Sportsefterskolen SINE (521302) | Billedkunst C | Tysk fortsætter B 
+88         | F     | Kerteminde Efterskole (439300) | Billedkunst C | Tysk fortsætter B 
+90         | F     | Kirstine Seligmanns Skole (631018) | Billedkunst C | Tysk fortsætter B 
+98         | F     | Klank Efterskole (703300) | Billedkunst C | Tysk fortsætter B 
+119        | F     | Koldingegnens Idrætsefterskole (621304) | Mediefag C | Tysk fortsætter B 
+128        | F     | Petersmindeskolen (631012) | Billedkunst C | Tysk fortsætter B 
+129        | F     |            | Mediefag C | Tysk fortsætter B 
+130        | M     | Venø Efterskole (671303) | Mediefag C | Tysk fortsætter B 
+140        | F     | Elbæk Efterskole (609300) | Billedkunst C | Tysk fortsætter B 
+146        | F     | Brøruphus Efterskole (745300) | Billedkunst C | Tysk fortsætter B 
+154        | F     | Ågård Efterskole (605302) | Mediefag C | Tysk fortsætter B 
+171        | M     | Fjordvang Efterskole (667300) | Mediefag C | Tysk fortsætter B 
+182        | M     | Hældagerskolen (631017) | Mediefag C | Tysk fortsætter B 
+185        | M     | Design- & Idrætsefterskolen Skamling (509300) | Mediefag C | Tysk fortsætter B 
+186        | M     | NOVAskolen (631011) | Mediefag C | Tysk fortsætter B 
+194        | F     | Rejsby Europæiske Efterskole (531300) | Mediefag C | Tysk fortsætter B 
+211        | M     | Lukas-Skolen (631029) | Mediefag C | Tysk fortsætter B 
+225        | F     | True North Efterskole Snaptun (280443) | Mediefag C | Tysk fortsætter B 
+238        | M     | Vejle Privatskole (280474) | Mediefag C | Tysk fortsætter B 
+239        | M     | Vejle Midtbyskole (281814) | Mediefag C | Tysk fortsætter B 
+Total: 27 students
+
+=== Class_E ===
+Name       | Sex   | Origin     | Subject    | Language          
+----------------------------------------------------------------------
+8          | F     | Bjerre Gymnastik- og Idrætsefterskole Akademiet (619301) | Billedkunst C | Tysk fortsætter B 
+13         | F     | Hou Maritime Idrætsefterskole (727305) | Billedkunst C | Spansk begynder A 
+21         | F     | Sct. Norberts Skole (631019) | Billedkunst C | Tysk fortsætter B 
+42         | F     | Nøvlingskov Efterskole (677300) | Musik C    | Spansk begynder A 
+43         | F     | Vedersø Idrætsefterskole (667303) | Billedkunst C | Spansk begynder A 
+46         | F     | Skolen i Midten (766001) | Billedkunst C | Spansk begynder A 
+57         | F     | Risskov Efterskole (280307) | Billedkunst C | Spansk begynder A 
+61         | F     | Kongensgaard Efterskole (665309) | Billedkunst C | Spansk begynder A 
+81         | F     | Kirstine Seligmanns Skole (631018) | Billedkunst C | Tysk fortsætter B 
+89         | F     | Bjerre Gymnastik- og Idrætsefterskole Akademiet (619301) | Billedkunst C | Spansk begynder A 
+91         | F     | Ågård Efterskole (605302) | Musik C    | Tysk fortsætter B 
+100        | F     | Petersmindeskolen (631012) | Musik C    | Tysk fortsætter B 
+112        | F     | Hellebjerg Idrætsefterskole (619300) | Billedkunst C | Spansk begynder A 
+124        | M     | Ågård Efterskole (605302) | Musik C    | Spansk begynder A 
+126        | M     | Rejsby Europæiske Efterskole (531300) | Musik C    | Tysk fortsætter B 
+139        | F     | Tørring Skole (627004) | Musik C    | Tysk fortsætter B 
+156        | F     | Vejlefjordskolen (grundskole) (613009) | Musik C    | Spansk begynder A 
+158        | M     | Flemming Efterskole (627300) | Musik C    | Spansk begynder A 
+162        | M     | Sct. Norberts Skole (631019) | Musik C    | Tysk fortsætter B 
+176        | F     | Petersmindeskolen (631012) | Musik C    | Spansk begynder A 
+192        | M     | Vejle Midtbyskole, afdeling Strandgade (281814) | Musik C    | Tysk fortsætter B 
+197        | M     | Bredsten-Gadbjerg skole. Bredsten afdeling (280335) | Musik C    | Tysk fortsætter B 
+199        | F     | NOVAskolen (631011) | Musik C    | Spansk begynder A 
+216        | M     |            | Musik C    | Spansk begynder A 
+218        | F     | Kirstine Seligmanns Skole (631018) | Billedkunst C | Spansk begynder A 
+220        | M     | Sydvestjyllands Efterskole (557303) | Musik C    | Tysk fortsætter B 
+228        | M     |            | Musik C    | Tysk fortsætter B 
+Total: 27 students
+
+=== Class_F ===
+Name       | Sex   | Origin     | Subject    | Language          
+----------------------------------------------------------------------
+23         | F     | Grejsdalens Efterskole (631300) | Designfag C | Spansk begynder A 
+24         | M     | Vesterlund Efterskole (611300) | Designfag C | Spansk begynder A 
+40         | M     | Hellebjerg Idrætsefterskole (619300) | Designfag C | Spansk begynder A 
+55         | M     | Kirstine Seligmanns Skole (631018) | Designfag C | Tysk fortsætter B 
+58         | F     | Petersmindeskolen (631012) | Designfag C | Spansk begynder A 
+107        | M     | Ølgod Efterskole (577300) | Designfag C | Spansk begynder A 
+108        | F     | Glamsdalens Idrætsefterskole (433303) | Designfag C | Tysk fortsætter B 
+123        | F     | Agerskov Ungdomsskole (525300) | Designfag C | Spansk begynder A 
+131        | M     | Den Tyske Efterskole Tinglev (539300) | Designfag C | Tysk fortsætter B 
+134        | F     | Sydvestjyllands Efterskole (557303) | Designfag C | Spansk begynder A 
+135        | F     | Skolerne i Oure - Sport & Performance (435301) | Designfag C | Tysk fortsætter B 
+137        | M     | Koldingegnens Idrætsefterskole (621304) | Designfag C | Spansk begynder A 
+163        | M     | Fælleshåbsskolen (280333) | Designfag C | Spansk begynder A 
+169        | M     | Stjernevejskolen (613012) | Designfag C | Tysk fortsætter B 
+175        | M     | Design- & Idrætsefterskolen Skamling (509300) | Designfag C | Spansk begynder A 
+187        | F     | Søndermarksskolen (631014) | Designfag C | Spansk begynder A 
+190        | M     | Adventure Efterskolen Sønderjylland Skelde (507301) | Designfag C | Tysk fortsætter B 
+200        | F     | Nørre Aaby Efterskole (451300) | Designfag C | Spansk begynder A 
+205        | F     | Skrødstrup Efterskole (719300) | Designfag C | Tysk fortsætter B 
+206        | M     | Vejle Idrætshøjskole & Vejle Idrætsefterskole (efterskoledelen) (630300) | Designfag C | Tysk fortsætter B 
+210        | M     | Nørre Aaby Efterskole (451300) | Designfag C | Tysk fortsætter B 
+213        | F     | Kirstine Seligmanns Skole (631018) | Designfag C | Tysk fortsætter B 
+221        | M     | Vejle Idrætshøjskole & Vejle Idrætsefterskole (efterskoledelen) (630300) | Designfag C | Tysk fortsætter B 
+230        | F     | Sct. Norberts Skole (631019) | Designfag C | Tysk fortsætter B 
+235        | M     |            | Designfag C | Tysk fortsætter B 
+236        | M     | Stjernevejskolen (613012) | Designfag C | Tysk fortsætter B 
+240        | F     | Søndermarksskolen (631014) | Designfag C | Tysk fortsætter B 
+Total: 27 students
+
+=== Class_G ===
+Name       | Sex   | Origin     | Subject    | Language          
+----------------------------------------------------------------------
+5          | F     | Skyum Idrætsefterskole (785301) | Designfag C | Tysk fortsætter B 
+7          | M     | Stjernevejskolen (613012) | Musik C    | Tysk fortsætter B 
+14         | F     | Kirstine Seligmanns Skole (631018) | Designfag C | Tysk fortsætter B 
+20         | F     | Midtjysk Efterskole (625300) | Designfag C | Tysk fortsætter B 
+25         | M     | Mølholm Skole (631009) | Musik C    | Tysk fortsætter B 
+27         | F     | Tronsø Efterskole og Fri Fagskole (280926) | Designfag C | Tysk fortsætter B 
+28         | F     | Efterskolen Solgården (655302) | Musik C    | Tysk fortsætter B 
+29         | F     | Petersmindeskolen (631012) | Musik C    | Fransk begynder A 
+30         | F     | True North Efterskole Snaptun (280443) | Designfag C | Tysk fortsætter B 
+34         | M     | Vejle Idrætshøjskole & Vejle Idrætsefterskole (efterskoledelen) (630300) | Designfag C | Tysk fortsætter B 
+38         | F     | Mariager Høj- & Efterskole (Efterskolen) (719302) | Musik C    | Tysk fortsætter B 
+51         | F     | Hou Maritime Idrætsefterskole (727305) | Musik C    | Tysk fortsætter B 
+54         | M     | Vejle Midtbyskole, afdeling Strandgade (281814) | Musik C    | Fransk begynder A 
+92         | F     | Bøvling Fri- og Idrætsefterskole (efterskole) (665306) | Designfag C | Tysk fortsætter B 
+94         | F     | Sydvestjyllands Efterskole (557303) | Designfag C | Tysk fortsætter B 
+95         | M     | Vestbirk Musik- & Sportsefterskole (609301) | Musik C    | Tysk fortsætter B 
+97         | M     | Rejsby Europæiske Efterskole (531300) | Designfag C | Tysk fortsætter B 
+103        | F     | Design- & Idrætsefterskolen Skamling (509300) | Designfag C | Tysk fortsætter B 
+105        | M     | Vandel Efterskole (605301) | Musik C    | Tysk fortsætter B 
+116        | F     | Petersmindeskolen (631012) | Designfag C | Tysk fortsætter B 
+174        | M     | Englystskolen (603005) | Designfag C | Tysk fortsætter B 
+179        | F     | Vejlefjordskolen (grundskole) (613009) | Musik C    | Fransk begynder A 
+180        | F     | Risskov Efterskole (280307) | Designfag C | Fransk begynder A 
+184        | F     | Kirstine Seligmanns Skole (631018) | Musik C    | Tysk fortsætter B 
+201        | F     | NOVAskolen (631011) | Musik C    | Fransk begynder A 
+202        | F     | Himmelbjergegnens Natur- og Idrætsefterskole (737301) | Designfag C | Tysk fortsætter B 
+215        | M     |            | Musik C    | Fransk begynder A 
+Total: 27 students
+
+=== Class_H ===
+Name       | Sex   | Origin     | Subject    | Language          
+----------------------------------------------------------------------
+1          | M     | Sct. Norberts Skole (631019) | Mediefag C | Spansk begynder A 
+15         | M     | Sct. Norberts Skole (631019) | Mediefag C | Spansk begynder A 
+59         | F     | Kirstine Seligmanns Skole (631018) | Billedkunst C | Tysk fortsætter B 
+60         | M     | Bjerre Gymnastik- og Idrætsefterskole Akademiet (619301) | Mediefag C | Spansk begynder A 
+63         | F     |            | Billedkunst C | Spansk begynder A 
+65         | F     | Vestbirk Musik- & Sportsefterskole (609301) | Mediefag C | Spansk begynder A 
+69         | F     | 10. Klasse UngdomsCenter Vejle (631034) | Mediefag C | Spansk begynder A 
+77         | M     | Lukas-Skolen (631029) | Mediefag C | Spansk begynder A 
+79         | F     | Risskov Efterskole (280307) | Mediefag C | Spansk begynder A 
+86         | F     | Bjerre Gymnastik- og Idrætsefterskole Akademiet (619301) | Mediefag C | Spansk begynder A 
+104        | M     | Kirkebakkeskolen (631006) | Mediefag C | Spansk begynder A 
+111        | M     | Hældagerskolen (631017) | Mediefag C | Spansk begynder A 
+117        | F     | Fredericia Realskole (607015) | Mediefag C | Spansk begynder A 
+127        | F     |            | Mediefag C | Spansk begynder A 
+132        | F     | Fælleshåbsskolen (280333) | Mediefag C | Spansk begynder A 
+138        | M     |            | Mediefag C | Spansk begynder A 
+142        | M     | Bredsten-Gadbjerg skole. Bredsten afdeling (280335) | Mediefag C | Spansk begynder A 
+143        | M     | Efterskolen PLAY (281861) | Mediefag C | Spansk begynder A 
+148        | F     | Lunderskov Efterskole (623301) | Mediefag C | Spansk begynder A 
+152        | M     | Husby Efterskole (679304) | Mediefag C | Spansk begynder A 
+159        | M     | Efterskolen Ådalen og Åskolen - friskolen i Hørning (efterskolen) (715300) | Mediefag C | Tysk fortsætter B 
+160        | M     | Vandel Efterskole (605301) | Mediefag C | Spansk begynder A 
+189        | M     | Ranum Efterskole (827300) | Mediefag C | Spansk begynder A 
+209        | M     | Sydvestjyllands Efterskole (557303) | Mediefag C | Spansk begynder A 
+224        | F     | Kirstine Seligmanns Skole (631018) | Billedkunst C | Tysk fortsætter B 
+229        | M     | Kirkebakkeskolen (631006) | Mediefag C | Spansk begynder A 
+234        | M     | Øse Efterskole (567300) | Mediefag C | Spansk begynder A 
+Total: 27 students
+
+=== Class_I ===
+Name       | Sex   | Origin     | Subject    | Language          
+----------------------------------------------------------------------
+2          | F     | Hældagerskolen (631017) | Billedkunst C | Tysk fortsætter B 
+3          | F     | Idrætsefterskolen Lægården (661300) | Billedkunst C | Tysk fortsætter B 
+4          | M     | Hou Maritime Idrætsefterskole (727305) | Mediefag C | Tysk fortsætter B 
+9          | F     | Kirstine Seligmanns Skole (631018) | Billedkunst C | Tysk fortsætter B 
+12         | M     | Skanderborg Ungdomsskole (746211) | Mediefag C | Tysk fortsætter B 
+16         | F     | Petersmindeskolen (631012) | Billedkunst C | Tysk fortsætter B 
+18         | F     | Skyum Idrætsefterskole (785301) | Billedkunst C | Tysk fortsætter B 
+19         | F     | Skolerne i Oure - Sport & Performance (435301) | Mediefag C | Tysk fortsætter B 
+31         | M     | Kirstine Seligmanns Skole (631018) | Billedkunst C | Tysk fortsætter B 
+32         | M     | Lukas-Skolen (631029) | Mediefag C | Tysk fortsætter B 
+37         | M     | True North Efterskole Snaptun (280443) | Mediefag C | Tysk fortsætter B 
+39         | M     |            | Mediefag C | Tysk fortsætter B 
+45         | F     | Nøvlingskov Efterskole (677300) | Billedkunst C | Tysk fortsætter B 
+48         | M     | Ladelund Efterskole (575306) | Mediefag C | Tysk fortsætter B 
+53         | M     | Bramming Gymnastik- og Idrætsefterskole (557300) | Mediefag C | Tysk fortsætter B 
+56         | F     | Brøruphus Efterskole (745300) | Billedkunst C | Tysk fortsætter B 
+62         | M     | Hellebjerg Idrætsefterskole (619300) | Mediefag C | Tysk fortsætter B 
+68         | F     | Ågård Efterskole (605302) | Billedkunst C | Tysk fortsætter B 
+72         | F     | Vesterlund Efterskole (611300) | Billedkunst C | Tysk fortsætter B 
+74         | F     | Sydvestjyllands Efterskole (557303) | Mediefag C | Tysk fortsætter B 
+75         | F     | Risskov Efterskole (280307) | Billedkunst C | Tysk fortsætter B 
+106        | M     | Hou Maritime Idrætsefterskole (727305) | Mediefag C | Tysk fortsætter B 
+118        | F     | Blåkilde Efterskole (655300) | Billedkunst C | Tysk fortsætter B 
+120        | F     | Skibelund Gymnastik- og Idrætsefterskole (575300) | Billedkunst C | Tysk fortsætter B 
+141        | M     | Broby Fri- og Efterskole (efterskole) (425300) | Mediefag C | Tysk fortsætter B 
+157        | M     | Brejning Efterskole (603301) | Mediefag C | Tysk fortsætter B 
+Total: 26 students
+
+Total Penalty Score: 125.0

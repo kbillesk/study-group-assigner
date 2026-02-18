@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Study group optimisation</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 480px; margin: 2rem auto; padding: 0 1rem; }
+    h1 { font-size: 1.25rem; }
+    label { display: block; margin-top: 1rem; font-weight: 500; }
+    input[type="file"], input[type="number"] { margin-top: 0.25rem; }
+    .radio-group { margin-top: 0.5rem; }
+    .radio-group label { display: inline; font-weight: normal; margin-right: 1rem; }
+    button[type="submit"] { margin-top: 1.5rem; padding: 0.5rem 1rem; cursor: pointer; }
+    .error { color: #c00; margin-top: 1rem; }
+  </style>
+</head>
+<body>
+  <h1>Study group optimisation</h1>
+  <p>Upload a spreadsheet (Excel .xlsx) with column B = sex, C = first name, D = last name. Set the number of members per group and whether groups should be same-sex or mixed.</p>
+  <form method="post" action="{{ url_for('run') }}" enctype="multipart/form-data">
+    <label for="file">Spreadsheet (.xlsx)</label>
+    <input type="file" id="file" name="file" accept=".xlsx" required>
+
+    <label for="group_size">Group size (members per group)</label>
+    <input type="number" id="group_size" name="group_size" min="1" value="10" required>
+
+    <label>Group type</label>
+    <div class="radio-group">
+      <label><input type="radio" name="group_type" value="same_sex"> Same-sex</label>
+      <label><input type="radio" name="group_type" value="mixed" checked> Mixed</label>
+    </div>
+
+    <button type="submit">Run optimisation</button>
+  </form>
+  {% if error %}
+  <p class="error">{{ error }}</p>
+  {% endif %}
+</body>
+</html>

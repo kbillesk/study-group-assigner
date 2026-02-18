@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Excel lock files
+.~lock.*
+
+# Local / generated (optional: uncomment if you don't want to track these)
+# *.xlsx
+# class_optimisation_results.txt
+# class_optimisation_results.csv

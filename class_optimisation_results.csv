@@ -1,0 +1,241 @@
+class,name,sex,origin,subject,language
+Class_A,22,M,Øse Efterskole (567300),Mediefag C,Fransk begynder A
+Class_A,33,F,,Billedkunst C,Fransk begynder A
+Class_A,36,F,Scienceefterskolen Nordborg Slot (523300),Billedkunst C,Fransk begynder A
+Class_A,41,M,Vrigsted Efterskole (619308),Mediefag C,Fransk begynder A
+Class_A,44,F,Skolerne i Oure - Sport & Performance (435301),Mediefag C,Fransk begynder A
+Class_A,47,M,Kirkebakkeskolen (631006),Mediefag C,Fransk begynder A
+Class_A,52,F,Faaborgegnens Efterskole (431304),Billedkunst C,Fransk begynder A
+Class_A,67,F,Fjordvang Efterskole (667300),Billedkunst C,Fransk begynder A
+Class_A,83,F,Hellebjerg Idrætsefterskole (619300),Billedkunst C,Tysk fortsætter B
+Class_A,114,M,Vejlefjordskolen (grundskole) (613009),Mediefag C,Fransk begynder A
+Class_A,136,M,NOVAskolen (631011),Mediefag C,Fransk begynder A
+Class_A,170,F,Kirkebakkeskolen (631006),Billedkunst C,Tysk fortsætter B
+Class_A,177,M,Hellebjerg Idrætsefterskole (619300),Mediefag C,Tysk fortsætter B
+Class_A,178,F,Agerskov Ungdomsskole (525300),Billedkunst C,Fransk begynder A
+Class_A,191,F,Elbæk Efterskole (609300),Mediefag C,Tysk fortsætter B
+Class_A,193,F,Hældagerskolen (631017),Billedkunst C,Tysk fortsætter B
+Class_A,198,F,Agerskov Ungdomsskole (525300),Mediefag C,Tysk fortsætter B
+Class_A,204,F,,Mediefag C,Tysk fortsætter B
+Class_A,208,F,Ågård Efterskole (605302),Billedkunst C,Tysk fortsætter B
+Class_A,212,F,Kirstine Seligmanns Skole (631018),Billedkunst C,Tysk fortsætter B
+Class_A,214,F,Løsning Skole (613005),Billedkunst C,Tysk fortsætter B
+Class_A,217,F,Vardeegnens Gymnasieforberedende Efterskole (573300),Billedkunst C,Tysk fortsætter B
+Class_A,219,F,Lyngs Idrætsefterskole (675301),Billedkunst C,Tysk fortsætter B
+Class_A,222,M,Stjernevejskolen (613012),Mediefag C,Tysk fortsætter B
+Class_A,231,M,Lukas-Skolen (631029),Mediefag C,Tysk fortsætter B
+Class_A,237,F,Kirstine Seligmanns Skole (631018),Billedkunst C,Tysk fortsætter B
+Class_B,35,M,Lystruphave Efterskole (749300),Billedkunst C,Tysk fortsætter B
+Class_B,49,F,Ågård Efterskole (605302),Billedkunst C,Tysk fortsætter B
+Class_B,73,F,Bramming Gymnastik- og Idrætsefterskole (557300),Billedkunst C,Tysk fortsætter B
+Class_B,96,M,Kirstine Seligmanns Skole (631018),Billedkunst C,Tysk fortsætter B
+Class_B,99,F,Bjerre Gymnastik- og Idrætsefterskole Akademiet (619301),Billedkunst C,Tysk fortsætter B
+Class_B,109,F,Kirstine Seligmanns Skole (631018),Billedkunst C,Tysk fortsætter B
+Class_B,113,F,Skibelund Gymnastik- og Idrætsefterskole (575300),Billedkunst C,Tysk fortsætter B
+Class_B,115,F,Vejle Idrætshøjskole & Vejle Idrætsefterskole (efterskoledelen) (630300),Billedkunst C,Tysk fortsætter B
+Class_B,125,F,Ågård Efterskole (605302),Billedkunst C,Tysk fortsætter B
+Class_B,133,F,Kirstine Seligmanns Skole (631018),Billedkunst C,Tysk fortsætter B
+Class_B,144,F,Elbæk Efterskole (609300),Billedkunst C,Tysk fortsætter B
+Class_B,145,F,Bramming Gymnastik- og Idrætsefterskole (557300),Billedkunst C,Tysk fortsætter B
+Class_B,147,F,Hældagerskolen (631017),Billedkunst C,Tysk fortsætter B
+Class_B,149,F,Koldingegnens Idrætsefterskole (621304),Billedkunst C,Tysk fortsætter B
+Class_B,150,F,Hjemly Fri- og Idrætsefterskole (473300),Billedkunst C,Tysk fortsætter B
+Class_B,153,F,Design- & Idrætsefterskolen Skamling (509300),Billedkunst C,Tysk fortsætter B
+Class_B,155,F,Vandel Efterskole (605301),Billedkunst C,Tysk fortsætter B
+Class_B,161,F,Kirstine Seligmanns Skole (631018),Billedkunst C,Tysk fortsætter B
+Class_B,165,F,"Balle Friskole, Balle Musik- & Idrætsefterskole (605300)",Billedkunst C,Tysk fortsætter B
+Class_B,166,F,Elbæk Efterskole (609300),Billedkunst C,Tysk fortsætter B
+Class_B,167,F,Flemming Efterskole (627300),Billedkunst C,Tysk fortsætter B
+Class_B,168,F,,Billedkunst C,Tysk fortsætter B
+Class_B,172,F,Petersmindeskolen (631012),Billedkunst C,Tysk fortsætter B
+Class_B,173,F,Kirstine Seligmanns Skole (631018),Billedkunst C,Tysk fortsætter B
+Class_B,188,F,Søndermarksskolen (631014),Billedkunst C,Tysk fortsætter B
+Class_B,223,M,Brøruphus Efterskole (745300),Billedkunst C,Tysk fortsætter B
+Class_B,232,F,Bredballe Privatskole (280537),Billedkunst C,Tysk fortsætter B
+Class_C,10,F,Hedensted Skole (613002),Billedkunst C,Spansk begynder A
+Class_C,11,F,Kirstine Seligmanns Skole (631018),Billedkunst C,Spansk begynder A
+Class_C,17,F,Risskov Efterskole (280307),Billedkunst C,Spansk begynder A
+Class_C,26,F,Silkeborg Efterskole (280308),Billedkunst C,Spansk begynder A
+Class_C,50,F,Kirstine Seligmanns Skole (631018),Billedkunst C,Spansk begynder A
+Class_C,64,F,Skolen i Midten (766001),Billedkunst C,Spansk begynder A
+Class_C,71,F,Hedensted Skole (613002),Billedkunst C,Spansk begynder A
+Class_C,76,M,Adventure Efterskolen Sønderjylland Skelde (507301),Billedkunst C,Spansk begynder A
+Class_C,80,F,Bredballe Privatskole (280537),Billedkunst C,Spansk begynder A
+Class_C,93,F,Bredballe Privatskole (280537),Billedkunst C,Spansk begynder A
+Class_C,101,F,,Dramatik C,Spansk begynder A
+Class_C,102,F,Mølholm Skole (631009),Billedkunst C,Spansk begynder A
+Class_C,110,F,Ryslinge Høj- og Efterskole (efterskoledelen) (430300),Billedkunst C,Spansk begynder A
+Class_C,121,M,Fælleshåbsskolen (280333),Billedkunst C,Spansk begynder A
+Class_C,122,M,Midtjysk Efterskole (625300),Billedkunst C,Spansk begynder A
+Class_C,151,F,Vejlefjordskolen (grundskole) (613009),Billedkunst C,Spansk begynder A
+Class_C,164,F,Vejle Idrætshøjskole & Vejle Idrætsefterskole (efterskoledelen) (630300),Billedkunst C,Spansk begynder A
+Class_C,181,F,,Billedkunst C,Spansk begynder A
+Class_C,183,F,Broby Fri- og Efterskole (efterskole) (425300),Billedkunst C,Spansk begynder A
+Class_C,195,F,Bjerre Gymnastik- og Idrætsefterskole Akademiet (619301),Billedkunst C,Spansk begynder A
+Class_C,196,F,Hammerum Fri- og Efterskole (efterskolen) (657300),Billedkunst C,Spansk begynder A
+Class_C,203,F,Hældagerskolen (631017),Billedkunst C,Spansk begynder A
+Class_C,207,F,Skolen i Midten (766001),Billedkunst C,Spansk begynder A
+Class_C,226,F,Skolerne i Oure - Sport & Performance (435301),Billedkunst C,Spansk begynder A
+Class_C,227,F,Bjerre Gymnastik- og Idrætsefterskole Akademiet (619301),Billedkunst C,Spansk begynder A
+Class_C,233,F,NOVAskolen (631011),Billedkunst C,Spansk begynder A
+Class_D,6,F,Englystskolen (603005),Billedkunst C,Tysk fortsætter B
+Class_D,66,F,Glamsdalens Idrætsefterskole (433303),Billedkunst C,Tysk fortsætter B
+Class_D,70,F,Kirstine Seligmanns Skole (631018),Billedkunst C,Tysk fortsætter B
+Class_D,78,F,Hældagerskolen (631017),Billedkunst C,Tysk fortsætter B
+Class_D,82,M,Vesterlund Efterskole (611300),Mediefag C,Tysk fortsætter B
+Class_D,84,F,Glamsdalens Idrætsefterskole (433303),Mediefag C,Tysk fortsætter B
+Class_D,85,F,Bjerre Gymnastik- og Idrætsefterskole Akademiet (619301),Billedkunst C,Tysk fortsætter B
+Class_D,87,F,Sportsefterskolen SINE (521302),Billedkunst C,Tysk fortsætter B
+Class_D,88,F,Kerteminde Efterskole (439300),Billedkunst C,Tysk fortsætter B
+Class_D,90,F,Kirstine Seligmanns Skole (631018),Billedkunst C,Tysk fortsætter B
+Class_D,98,F,Klank Efterskole (703300),Billedkunst C,Tysk fortsætter B
+Class_D,119,F,Koldingegnens Idrætsefterskole (621304),Mediefag C,Tysk fortsætter B
+Class_D,128,F,Petersmindeskolen (631012),Billedkunst C,Tysk fortsætter B
+Class_D,129,F,,Mediefag C,Tysk fortsætter B
+Class_D,130,M,Venø Efterskole (671303),Mediefag C,Tysk fortsætter B
+Class_D,140,F,Elbæk Efterskole (609300),Billedkunst C,Tysk fortsætter B
+Class_D,146,F,Brøruphus Efterskole (745300),Billedkunst C,Tysk fortsætter B
+Class_D,154,F,Ågård Efterskole (605302),Mediefag C,Tysk fortsætter B
+Class_D,171,M,Fjordvang Efterskole (667300),Mediefag C,Tysk fortsætter B
+Class_D,182,M,Hældagerskolen (631017),Mediefag C,Tysk fortsætter B
+Class_D,185,M,Design- & Idrætsefterskolen Skamling (509300),Mediefag C,Tysk fortsætter B
+Class_D,186,M,NOVAskolen (631011),Mediefag C,Tysk fortsætter B
+Class_D,194,F,Rejsby Europæiske Efterskole (531300),Mediefag C,Tysk fortsætter B
+Class_D,211,M,Lukas-Skolen (631029),Mediefag C,Tysk fortsætter B
+Class_D,225,F,True North Efterskole Snaptun (280443),Mediefag C,Tysk fortsætter B
+Class_D,238,M,Vejle Privatskole (280474),Mediefag C,Tysk fortsætter B
+Class_D,239,M,Vejle Midtbyskole (281814),Mediefag C,Tysk fortsætter B
+Class_E,8,F,Bjerre Gymnastik- og Idrætsefterskole Akademiet (619301),Billedkunst C,Tysk fortsætter B
+Class_E,13,F,Hou Maritime Idrætsefterskole (727305),Billedkunst C,Spansk begynder A
+Class_E,21,F,Sct. Norberts Skole (631019),Billedkunst C,Tysk fortsætter B
+Class_E,42,F,Nøvlingskov Efterskole (677300),Musik C,Spansk begynder A
+Class_E,43,F,Vedersø Idrætsefterskole (667303),Billedkunst C,Spansk begynder A
+Class_E,46,F,Skolen i Midten (766001),Billedkunst C,Spansk begynder A
+Class_E,57,F,Risskov Efterskole (280307),Billedkunst C,Spansk begynder A
+Class_E,61,F,Kongensgaard Efterskole (665309),Billedkunst C,Spansk begynder A
+Class_E,81,F,Kirstine Seligmanns Skole (631018),Billedkunst C,Tysk fortsætter B
+Class_E,89,F,Bjerre Gymnastik- og Idrætsefterskole Akademiet (619301),Billedkunst C,Spansk begynder A
+Class_E,91,F,Ågård Efterskole (605302),Musik C,Tysk fortsætter B
+Class_E,100,F,Petersmindeskolen (631012),Musik C,Tysk fortsætter B
+Class_E,112,F,Hellebjerg Idrætsefterskole (619300),Billedkunst C,Spansk begynder A
+Class_E,124,M,Ågård Efterskole (605302),Musik C,Spansk begynder A
+Class_E,126,M,Rejsby Europæiske Efterskole (531300),Musik C,Tysk fortsætter B
+Class_E,139,F,Tørring Skole (627004),Musik C,Tysk fortsætter B
+Class_E,156,F,Vejlefjordskolen (grundskole) (613009),Musik C,Spansk begynder A
+Class_E,158,M,Flemming Efterskole (627300),Musik C,Spansk begynder A
+Class_E,162,M,Sct. Norberts Skole (631019),Musik C,Tysk fortsætter B
+Class_E,176,F,Petersmindeskolen (631012),Musik C,Spansk begynder A
+Class_E,192,M,"Vejle Midtbyskole, afdeling Strandgade (281814)",Musik C,Tysk fortsætter B
+Class_E,197,M,Bredsten-Gadbjerg skole. Bredsten afdeling (280335),Musik C,Tysk fortsætter B
+Class_E,199,F,NOVAskolen (631011),Musik C,Spansk begynder A
+Class_E,216,M,,Musik C,Spansk begynder A
+Class_E,218,F,Kirstine Seligmanns Skole (631018),Billedkunst C,Spansk begynder A
+Class_E,220,M,Sydvestjyllands Efterskole (557303),Musik C,Tysk fortsætter B
+Class_E,228,M,,Musik C,Tysk fortsætter B
+Class_F,23,F,Grejsdalens Efterskole (631300),Designfag C,Spansk begynder A
+Class_F,24,M,Vesterlund Efterskole (611300),Designfag C,Spansk begynder A
+Class_F,40,M,Hellebjerg Idrætsefterskole (619300),Designfag C,Spansk begynder A
+Class_F,55,M,Kirstine Seligmanns Skole (631018),Designfag C,Tysk fortsætter B
+Class_F,58,F,Petersmindeskolen (631012),Designfag C,Spansk begynder A
+Class_F,107,M,Ølgod Efterskole (577300),Designfag C,Spansk begynder A
+Class_F,108,F,Glamsdalens Idrætsefterskole (433303),Designfag C,Tysk fortsætter B
+Class_F,123,F,Agerskov Ungdomsskole (525300),Designfag C,Spansk begynder A
+Class_F,131,M,Den Tyske Efterskole Tinglev (539300),Designfag C,Tysk fortsætter B
+Class_F,134,F,Sydvestjyllands Efterskole (557303),Designfag C,Spansk begynder A
+Class_F,135,F,Skolerne i Oure - Sport & Performance (435301),Designfag C,Tysk fortsætter B
+Class_F,137,M,Koldingegnens Idrætsefterskole (621304),Designfag C,Spansk begynder A
+Class_F,163,M,Fælleshåbsskolen (280333),Designfag C,Spansk begynder A
+Class_F,169,M,Stjernevejskolen (613012),Designfag C,Tysk fortsætter B
+Class_F,175,M,Design- & Idrætsefterskolen Skamling (509300),Designfag C,Spansk begynder A
+Class_F,187,F,Søndermarksskolen (631014),Designfag C,Spansk begynder A
+Class_F,190,M,Adventure Efterskolen Sønderjylland Skelde (507301),Designfag C,Tysk fortsætter B
+Class_F,200,F,Nørre Aaby Efterskole (451300),Designfag C,Spansk begynder A
+Class_F,205,F,Skrødstrup Efterskole (719300),Designfag C,Tysk fortsætter B
+Class_F,206,M,Vejle Idrætshøjskole & Vejle Idrætsefterskole (efterskoledelen) (630300),Designfag C,Tysk fortsætter B
+Class_F,210,M,Nørre Aaby Efterskole (451300),Designfag C,Tysk fortsætter B
+Class_F,213,F,Kirstine Seligmanns Skole (631018),Designfag C,Tysk fortsætter B
+Class_F,221,M,Vejle Idrætshøjskole & Vejle Idrætsefterskole (efterskoledelen) (630300),Designfag C,Tysk fortsætter B
+Class_F,230,F,Sct. Norberts Skole (631019),Designfag C,Tysk fortsætter B
+Class_F,235,M,,Designfag C,Tysk fortsætter B
+Class_F,236,M,Stjernevejskolen (613012),Designfag C,Tysk fortsætter B
+Class_F,240,F,Søndermarksskolen (631014),Designfag C,Tysk fortsætter B
+Class_G,5,F,Skyum Idrætsefterskole (785301),Designfag C,Tysk fortsætter B
+Class_G,7,M,Stjernevejskolen (613012),Musik C,Tysk fortsætter B
+Class_G,14,F,Kirstine Seligmanns Skole (631018),Designfag C,Tysk fortsætter B
+Class_G,20,F,Midtjysk Efterskole (625300),Designfag C,Tysk fortsætter B
+Class_G,25,M,Mølholm Skole (631009),Musik C,Tysk fortsætter B
+Class_G,27,F,Tronsø Efterskole og Fri Fagskole (280926),Designfag C,Tysk fortsætter B
+Class_G,28,F,Efterskolen Solgården (655302),Musik C,Tysk fortsætter B
+Class_G,29,F,Petersmindeskolen (631012),Musik C,Fransk begynder A
+Class_G,30,F,True North Efterskole Snaptun (280443),Designfag C,Tysk fortsætter B
+Class_G,34,M,Vejle Idrætshøjskole & Vejle Idrætsefterskole (efterskoledelen) (630300),Designfag C,Tysk fortsætter B
+Class_G,38,F,Mariager Høj- & Efterskole (Efterskolen) (719302),Musik C,Tysk fortsætter B
+Class_G,51,F,Hou Maritime Idrætsefterskole (727305),Musik C,Tysk fortsætter B
+Class_G,54,M,"Vejle Midtbyskole, afdeling Strandgade (281814)",Musik C,Fransk begynder A
+Class_G,92,F,Bøvling Fri- og Idrætsefterskole (efterskole) (665306),Designfag C,Tysk fortsætter B
+Class_G,94,F,Sydvestjyllands Efterskole (557303),Designfag C,Tysk fortsætter B
+Class_G,95,M,Vestbirk Musik- & Sportsefterskole (609301),Musik C,Tysk fortsætter B
+Class_G,97,M,Rejsby Europæiske Efterskole (531300),Designfag C,Tysk fortsætter B
+Class_G,103,F,Design- & Idrætsefterskolen Skamling (509300),Designfag C,Tysk fortsætter B
+Class_G,105,M,Vandel Efterskole (605301),Musik C,Tysk fortsætter B
+Class_G,116,F,Petersmindeskolen (631012),Designfag C,Tysk fortsætter B
+Class_G,174,M,Englystskolen (603005),Designfag C,Tysk fortsætter B
+Class_G,179,F,Vejlefjordskolen (grundskole) (613009),Musik C,Fransk begynder A
+Class_G,180,F,Risskov Efterskole (280307),Designfag C,Fransk begynder A
+Class_G,184,F,Kirstine Seligmanns Skole (631018),Musik C,Tysk fortsætter B
+Class_G,201,F,NOVAskolen (631011),Musik C,Fransk begynder A
+Class_G,202,F,Himmelbjergegnens Natur- og Idrætsefterskole (737301),Designfag C,Tysk fortsætter B
+Class_G,215,M,,Musik C,Fransk begynder A
+Class_H,1,M,Sct. Norberts Skole (631019),Mediefag C,Spansk begynder A
+Class_H,15,M,Sct. Norberts Skole (631019),Mediefag C,Spansk begynder A
+Class_H,59,F,Kirstine Seligmanns Skole (631018),Billedkunst C,Tysk fortsætter B
+Class_H,60,M,Bjerre Gymnastik- og Idrætsefterskole Akademiet (619301),Mediefag C,Spansk begynder A
+Class_H,63,F,,Billedkunst C,Spansk begynder A
+Class_H,65,F,Vestbirk Musik- & Sportsefterskole (609301),Mediefag C,Spansk begynder A
+Class_H,69,F,10. Klasse UngdomsCenter Vejle (631034),Mediefag C,Spansk begynder A
+Class_H,77,M,Lukas-Skolen (631029),Mediefag C,Spansk begynder A
+Class_H,79,F,Risskov Efterskole (280307),Mediefag C,Spansk begynder A
+Class_H,86,F,Bjerre Gymnastik- og Idrætsefterskole Akademiet (619301),Mediefag C,Spansk begynder A
+Class_H,104,M,Kirkebakkeskolen (631006),Mediefag C,Spansk begynder A
+Class_H,111,M,Hældagerskolen (631017),Mediefag C,Spansk begynder A
+Class_H,117,F,Fredericia Realskole (607015),Mediefag C,Spansk begynder A
+Class_H,127,F,,Mediefag C,Spansk begynder A
+Class_H,132,F,Fælleshåbsskolen (280333),Mediefag C,Spansk begynder A
+Class_H,138,M,,Mediefag C,Spansk begynder A
+Class_H,142,M,Bredsten-Gadbjerg skole. Bredsten afdeling (280335),Mediefag C,Spansk begynder A
+Class_H,143,M,Efterskolen PLAY (281861),Mediefag C,Spansk begynder A
+Class_H,148,F,Lunderskov Efterskole (623301),Mediefag C,Spansk begynder A
+Class_H,152,M,Husby Efterskole (679304),Mediefag C,Spansk begynder A
+Class_H,159,M,Efterskolen Ådalen og Åskolen - friskolen i Hørning (efterskolen) (715300),Mediefag C,Tysk fortsætter B
+Class_H,160,M,Vandel Efterskole (605301),Mediefag C,Spansk begynder A
+Class_H,189,M,Ranum Efterskole (827300),Mediefag C,Spansk begynder A
+Class_H,209,M,Sydvestjyllands Efterskole (557303),Mediefag C,Spansk begynder A
+Class_H,224,F,Kirstine Seligmanns Skole (631018),Billedkunst C,Tysk fortsætter B
+Class_H,229,M,Kirkebakkeskolen (631006),Mediefag C,Spansk begynder A
+Class_H,234,M,Øse Efterskole (567300),Mediefag C,Spansk begynder A
+Class_I,2,F,Hældagerskolen (631017),Billedkunst C,Tysk fortsætter B
+Class_I,3,F,Idrætsefterskolen Lægården (661300),Billedkunst C,Tysk fortsætter B
+Class_I,4,M,Hou Maritime Idrætsefterskole (727305),Mediefag C,Tysk fortsætter B
+Class_I,9,F,Kirstine Seligmanns Skole (631018),Billedkunst C,Tysk fortsætter B
+Class_I,12,M,Skanderborg Ungdomsskole (746211),Mediefag C,Tysk fortsætter B
+Class_I,16,F,Petersmindeskolen (631012),Billedkunst C,Tysk fortsætter B
+Class_I,18,F,Skyum Idrætsefterskole (785301),Billedkunst C,Tysk fortsætter B
+Class_I,19,F,Skolerne i Oure - Sport & Performance (435301),Mediefag C,Tysk fortsætter B
+Class_I,31,M,Kirstine Seligmanns Skole (631018),Billedkunst C,Tysk fortsætter B
+Class_I,32,M,Lukas-Skolen (631029),Mediefag C,Tysk fortsætter B
+Class_I,37,M,True North Efterskole Snaptun (280443),Mediefag C,Tysk fortsætter B
+Class_I,39,M,,Mediefag C,Tysk fortsætter B
+Class_I,45,F,Nøvlingskov Efterskole (677300),Billedkunst C,Tysk fortsætter B
+Class_I,48,M,Ladelund Efterskole (575306),Mediefag C,Tysk fortsætter B
+Class_I,53,M,Bramming Gymnastik- og Idrætsefterskole (557300),Mediefag C,Tysk fortsætter B
+Class_I,56,F,Brøruphus Efterskole (745300),Billedkunst C,Tysk fortsætter B
+Class_I,62,M,Hellebjerg Idrætsefterskole (619300),Mediefag C,Tysk fortsætter B
+Class_I,68,F,Ågård Efterskole (605302),Billedkunst C,Tysk fortsætter B
+Class_I,72,F,Vesterlund Efterskole (611300),Billedkunst C,Tysk fortsætter B
+Class_I,74,F,Sydvestjyllands Efterskole (557303),Mediefag C,Tysk fortsætter B
+Class_I,75,F,Risskov Efterskole (280307),Billedkunst C,Tysk fortsætter B
+Class_I,106,M,Hou Maritime Idrætsefterskole (727305),Mediefag C,Tysk fortsætter B
+Class_I,118,F,Blåkilde Efterskole (655300),Billedkunst C,Tysk fortsætter B
+Class_I,120,F,Skibelund Gymnastik- og Idrætsefterskole (575300),Billedkunst C,Tysk fortsætter B
+Class_I,141,M,Broby Fri- og Efterskole (efterskole) (425300),Mediefag C,Tysk fortsætter B
+Class_I,157,M,Brejning Efterskole (603301),Mediefag C,Tysk fortsætter B

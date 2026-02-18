@@ -1,0 +1,5 @@
+a1-normal, 30
+a2-normal, 30
+b1-normal, 30
+b2-normal, 30
+c1-lab, 30
